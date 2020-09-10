@@ -1,0 +1,19 @@
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    height: auto;
+}
+
+p{
+    text-align: center;
+}
+
+h3, #tribute-info{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
