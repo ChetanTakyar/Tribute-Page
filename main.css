@@ -17,3 +17,7 @@ h3, #tribute-info{
     margin-right: auto;
     width: 50%;
 }
+
+#img-caption, #title{
+    text-align: center;
+}
